@@ -1,4 +1,4 @@
-<h1 align="center">Cauê Brito</h1>
+<h1 align="center">Cauê Pirangi</h1>
 <h3 align="center">Back-end Java Developer</h3>
 
 <p align="center">
