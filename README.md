@@ -14,9 +14,9 @@ Construo APIs REST com Java e Spring Boot. Estudante de Engenharia de Software n
 
 ### Foco atual
 
-- Spring Security + JWT, testes automatizados e Docker
+- Spring Security + JWT, testes automatizados e Docker — fechando o gap pra vaga de back-end júnior
 - Trabalho freelance com curadoria de dados e análise de viabilidade de ERP/pagamentos
-
+  
 ### Stack
 
 **Backend** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
@@ -35,13 +35,5 @@ Construo APIs REST com Java e Spring Boot. Estudante de Engenharia de Software n
 | [**storehub-springboot**](https://github.com/ignariip0/storehub-springboot) | Base de estudo Spring Boot: padrão Resource/Service/Repository, JPA e profiles |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignariip0&show_icons=true&hide_border=true&count_private=true" height="165"/>
-</p>
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ignariip0&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ignariip0&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ignariip0&show_icons=true&hide_border=true&count_private=true" height="165"/>
 </p>
