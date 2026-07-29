@@ -34,6 +34,8 @@ Construo APIs REST com Java e Spring Boot. Estudante de Engenharia de Software n
 | [**libraryapi**](https://github.com/ignariip0/libraryapi) | Spring Data JPA + PostgreSQL em Docker, com pgAdmin pra administração do banco |
 | [**storehub-springboot**](https://github.com/ignariip0/storehub-springboot) | Base de estudo Spring Boot: padrão Resource/Service/Repository, JPA e profiles |
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ignariip0&show_icons=true&hide_border=true&count_private=true" height="165"/>
-</p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ignariip0&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ignariip0&theme=tokyonight&hide_border=true"/>
